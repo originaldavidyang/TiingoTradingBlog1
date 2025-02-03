@@ -7,5 +7,4 @@ This repository contains machine learning-based stock prediction strategies usin
 - **LightGBM** for predicting stock returns.
 - **Tiingo API** for financial data.
 - **Monthly rebalancing** of portfolios based on predictions.
-- **Backtesting** from 2000 to 2024.
 
